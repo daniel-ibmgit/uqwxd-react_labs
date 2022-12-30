@@ -39,6 +39,8 @@ h1 {
     border: none;
     padding: 8px 16px;
     cursor: pointer;
+    width:fit-content;
+    justify-content: center;
   }
   button:hover {
     background-color: rgb(173, 47, 28);
